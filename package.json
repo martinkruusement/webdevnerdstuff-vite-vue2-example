@@ -1,0 +1,37 @@
+{
+	"name": "vite-vue2-example",
+	"version": "0.0.1",
+	"description": "Hello World",
+	"private": true,
+	"main": "src/index.js",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"author": "WebDevNerdStuff & Bunnies... lots and lots of bunnies! <webdevnerdstuff@gmail.com> (https://webdevnerdstuff.com)",
+	"license": "MIT",
+	"repository": "https://github.com/webdevnerdstuff/vite-vue2-example",
+	"bugs": {
+		"url": "https://github.com/webdevnerdstuff/vite-vue2-example/issues"
+	},
+	"homepage": "https://webdevnerdstuff.github.io/vite-vue2-example/",
+	"keywords": [
+		"vue",
+		"vue2",
+		"vite",
+		"component",
+		"plugin",
+		"javascript",
+		"webdevnerdstuff",
+		"wdns"
+	],
+	"devDependencies": {
+	  "vite": "^2.7.5",
+	  "vite-plugin-vue2": "^1.4.0",
+	  "vue-template-compiler": "^2.6.14"
+	},
+	"dependencies": {
+		"vue": "^2.6.14"
+	}
+}
